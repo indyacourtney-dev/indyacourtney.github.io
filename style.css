@@ -11,8 +11,12 @@ margin: 10px auto;
 width: 350px;
 }
 
+.little-prince-page p {
+margin-top: 0.5px;
+}
+
 .highlight {
-background-color: yellow;
+background-color: orange;
 font-weight: bold;
 }
 
