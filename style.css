@@ -1,0 +1,26 @@
+body {
+font-family: "Times New Roman", Times, serif;
+}
+
+.little-prince-page {
+width: 350px;
+margin: 10px auto;
+}
+
+.little-prince-page img {
+width: 350px;
+}
+
+.highlight {
+background-color: yellow;
+font-weight: bold;
+}
+
+.red-bold {
+color: red;
+font-weight: bold;
+}
+
+.little-prince-page a {
+margin-top: 6px;
+}
